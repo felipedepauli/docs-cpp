@@ -1,0 +1,7 @@
+Saldo inicial: R$ 0.000000
+Lancamentos: 
+Tipo Valor       Descricao 
+C     R$ 1000.00 Deposito
+D     R$ 900.65 Saque
+
+ Saldo Atual: R$ 99.350000
